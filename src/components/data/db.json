@@ -1,0 +1,59 @@
+{
+  "donHang": [
+    {
+      "maDonHang": 200,
+      "ngayMua": "2024-12-15",
+      "tongTien": 1000,
+      "soLuong": 1,
+      "tenSanPham": "Iphonex",
+      "gia": 1000,
+      "sanPham": {
+        "maSanPham": 1,
+        "loaiSanPham": "Điện Thoại"
+      }
+    },{
+      "maDonHang": 201,
+      "ngayMua": "2024-12-15",
+      "tongTien": 2000,
+      "soLuong": 2,
+      "tenSanPham": "Iphone15",
+      "gia": 1500,
+      "sanPham": {
+        "maSanPham": 1,
+        "loaiSanPham": "Điện Thoại"
+      }
+    },{
+      "maDonHang": 203,
+      "ngayMua": "2024-12-15",
+      "tongTien": 1000,
+      "soLuong": 1,
+      "tenSanPham": "Dell 1",
+      "gia": 1000,
+      "sanPham": {
+        "maSanPham": 2,
+        "loaiSanPham": "Laptop"
+      }
+    },{
+      "maDonHang": 200,
+      "ngayMua": "2024-12-15",
+      "tongTien": 1000,
+      "soLuong": 1,
+      "tenSanPham": "Aces 2",
+      "gia": 1000,
+      "sanPham": {
+        "maSanPham": 2,
+        "loaiSanPham": "Laptop"
+      }
+    }
+  ],
+  "sanPham": [
+    {
+      "maSanPham": 1,
+      "loaiSanPham": "Điện Thoại"
+    },{
+      "maSanPham": 2,
+      "loaiSanPham": "Laptop"
+    }
+  ]
+
+}
